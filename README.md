@@ -1,2 +1,8 @@
-# problem_solving
-Solutions to different interview questions that I solved as a part of my interview-preparation kit.
+# Problem Solving
+Solutions to different interview questions to strengthen my coding skills.
+
+## Questions:
+
+- ### problem#3.py:
+
+  Given the root to a binary tree, implement serialize(root), which serializes the tree into a string, and deserialize(s), which deserializes the string back into the tree.
